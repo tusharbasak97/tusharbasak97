@@ -1,5 +1,5 @@
 ### Hi there, I'm [TUSHAR BASAK](https://linktr.ee/Tushar0o7) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-#### A passionate Data Engineer!
+#### Aspiring Data Engineer Passionate about Transforming Complex Data into Actionable Insights!
 
 [![Website](https://img.shields.io/website?label=My%20Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://tusharbasak97.github.io/website/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/TUSHARBASAK5?label=FOLLOW%20ME&logo=TWITTER&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftusharbasak97&screen_name=tusharbasak97)
