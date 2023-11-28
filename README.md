@@ -1,14 +1,14 @@
 ### Hi there, I'm [TUSHAR BASAK](https://linktr.ee/Tushar0o7) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-#### Aspiring Data Engineer Passionate about Transforming Complex Data into Actionable Insights!
+#### Aspiring Data Scientist, Passionate about Transforming Complex Data into Actionable Insights!
 
 [![Website](https://img.shields.io/website?label=My%20Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://tusharbasak97.github.io/website/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/TUSHARBASAK5?label=FOLLOW%20ME&logo=TWITTER&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftusharbasak97&screen_name=tusharbasak97)
+[![Twitter Follow](https://img.shields.io/twitter/follow/tusharbasak97?label=FOLLOW%20ME&logo=TWITTER&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftusharbasak97&screen_name=tusharbasak97)
 <br/>
 
 # 💫 About Me:
 
-- 🔭 I’m currently preparing for **Data Engineering.**
-- 🌱 I’m currently learning literally **everything** associated with Data Engineering.
+- 🔭 I’m currently preparing for **Data Science.**
+- 🌱 I’m currently learning literally **everything** associated with Data Science.
 - 👯 I’m looking to collaborate with myself for big projects.
 - 🤝 I’m looking for help with My Portfolio Website.
 - 📄 Know about my experiences: [Download CV](https://bit.ly/basakresume)
@@ -48,6 +48,6 @@
 
 ## 💰 You can help me by Donating
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tushar0o7) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/tushar0o7)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tushar0o7) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/tusharbasak97)
 
 ### Show some ❤️ by starring some of the repositories!
