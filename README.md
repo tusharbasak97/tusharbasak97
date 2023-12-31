@@ -2,8 +2,7 @@
 
 #### Aspiring Data Scientist, Passionate about Transforming Complex Data into Actionable Insights!
 
-[![Website](https://custom-icon-badges.demolab.com/website?label=My%20Portfolio%20Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://tusharbasak97.github.io/website/) <!-- [![CV](https://custom-icon-badges.demolab.com/badge/Download%20CV-8A2BE2)](https://bit.ly/basakresume) -->
-<br/>
+[![Website](https://custom-icon-badges.demolab.com/website?label=My%20Portfolio%20Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://bit.ly/tushweb)
 
 # 💫 About Me:
 
@@ -12,7 +11,8 @@
 - 👯 I’m looking to collaborate with myself for big projects.
 - 🤝 I’m looking for help with My Portfolio Website.
 - 📄 Know about my experiences: [Download CV](https://bit.ly/basakresume)
-  <br/>
+
+###
 
 # 💻 Tech Stack:
 
@@ -24,6 +24,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=tusharbasak97&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tusharbasak97&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharbasak97&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+###
+
+<img src="https://raw.githubusercontent.com/TUSHARBASAK97/TUSHARBASAK97/output/snake.svg" alt="Snake animation" />
 
 ## 🏆 GitHub Trophies
 
