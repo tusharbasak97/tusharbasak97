@@ -2,7 +2,7 @@
 
 #### Aspiring Data Scientist, Passionate about Transforming Complex Data into Actionable Insights!
 
-[![Website](https://custom-icon-badges.demolab.com/website?label=My%20Portfolio%20Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://bit.ly/tushweb)
+[![Website](https://custom-icon-badges.demolab.com/website?label=My%20Portfolio%20Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://bit.ly/tushweb) [![](https://visitcount.itsvg.in/api?id=tusharbasak97&icon=5&color=5)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 
@@ -25,10 +25,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tusharbasak97&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharbasak97&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-###
-
-<img src="https://raw.githubusercontent.com/TUSHARBASAK97/TUSHARBASAK97/output/snake.svg" alt="Snake animation" />
-
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=tusharbasak97&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -41,12 +37,12 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-[![](https://visitcount.itsvg.in/api?id=tusharbasak97&icon=5&color=5)](https://visitcount.itsvg.in)
-
 ## 💰 You can help me by Donating
 
 [![BuyMeACoffee](https://custom-icon-badges.demolab.com/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tushar0o7)
 
-### Show some ❤️ by starring some of the repositories!
+###
+
+<div align="center">
+<h3> Show some ❤️ by starring some of the repositories! </h3>
+</div>
