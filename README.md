@@ -6,8 +6,13 @@
 
 # 💫 About Me:
 
+[<img src="https://custom-icon-badges.demolab.com/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tusharbasak97/)
+[<img src="https://custom-icon-badges.demolab.com/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@tusharbasak97)
+[<img src="https://custom-icon-badges.demolab.com/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/tusharbasak97)
+[<img src="https://custom-icon-badges.demolab.com/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://www.leetcode.com/tusharbasak97)
+
 - 🔭 I’m currently preparing for **Data Science.**
-- 🌱 I’m currently learning literally **everything** associated with Data Science.
+- 🛠️ I build models with: `Python` `SQL` `Azure` `AWS` `Zsh/Bash` `Databricks`
 - 👯 I’m looking to collaborate with myself for big projects.
 - 🤝 I’m looking for help with My Portfolio Website.
 - 📄 Know about my experiences: [Download CV](https://bit.ly/basakresume)
