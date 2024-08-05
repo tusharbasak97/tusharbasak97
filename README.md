@@ -1,6 +1,6 @@
 ### Hi there, I'm [Tushar Basak](https://linktr.ee/Tushar0o7) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-#### Aspiring Data Scientist, Passionate about Transforming Complex Data into Actionable Insights!
+#### Preparing for a career in cybersecurity.
 
 [![Website](https://custom-icon-badges.demolab.com/website?label=My%20Portfolio%20Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://bit.ly/tushweb) [![](https://visitcount.itsvg.in/api?id=tusharbasak97&icon=5&color=5)](https://visitcount.itsvg.in)
 
@@ -11,8 +11,8 @@
 [<img src="https://custom-icon-badges.demolab.com/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/tusharbasak97)
 [<img src="https://custom-icon-badges.demolab.com/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://www.leetcode.com/tusharbasak97)
 
-- 🔭 I’m currently preparing for **Data Science.**
-- 🛠️ I build models with: `Python` `SQL` `Azure` `AWS` `Zsh/Bash` `Databricks`
+- 🔭 I’m currently preparing for **Cyber Security Analyst.**
+- 🛠️ I building my experties in: `CCNA` `Security+` `Networking` `VAPT` `Shell/Bash`
 - 👯 I’m looking to collaborate with myself for big projects.
 - 🤝 I’m looking for help with My Portfolio Website.
 - 📄 Know about my experiences: [Download CV](https://bit.ly/basakresume)
