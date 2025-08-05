@@ -1,6 +1,6 @@
 <!-- Epic Cybersecurity Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12&text=TUSHAR%20BASAK&fontColor=00ff41&fontSize=35&animation=fadeIn&fontAlignY=35&desc=Network%20Engineer%20|%20CyberSecurity%20Analyst&descAlignY=55&descSize=15" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12&text=TUSHAR%20BASAK&fontColor=fff&fontSize=35&animation=fadeIn&fontAlignY=35&desc=Network%20Engineer%20|%20CyberSecurity%20Analyst&descAlignY=55&descSize=15" alt="Header"/>
 
 </div>
 <div align="center">
@@ -145,7 +145,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharbasak97&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Epic Snake Animation -->
-<div align="left">
+<div align="center">
   <h2>🐍 The Matrix Snake Has You... 🐍</h2>
   
   <!-- Snake Animation Options -->
