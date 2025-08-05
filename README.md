@@ -1,4 +1,17 @@
-### Hi there, I'm [Tushar Basak](https://linktr.ee/Tushar0o7) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<!-- Epic Cybersecurity Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12&text=TUSHAR%20BASAK&fontColor=00ff41&fontSize=35&animation=fadeIn&fontAlignY=35&desc=Network%20Engineer%20|%20CyberSecurity%20Analyst&descAlignY=55&descSize=15" alt="Header"/>
+
+</div>
+<div align="center">
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&center=true&width=700&height=60&color=00d4ff&lines=Cybersecurity+is+not+optional.;Hackers+don't+break+in%2C+they+log+in.;Security+is+everyone's+responsibility.;Think+before+you+click.;The+only+secure+system+is+one+that+is+off.;In+God+we+trust%2C+all+others+we+monitor.">
+  </p>
+</div>
+
+---
+
+### Hi there, I'm [Tushar Basak](https://bit.ly/m/DataBasak) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 #### Preparing for a career in cybersecurity.
 
@@ -21,14 +34,130 @@
 
 # 💻 Tech Stack:
 
-![LaTeX](https://custom-icon-badges.demolab.com/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://custom-icon-badges.demolab.com/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Scala](https://custom-icon-badges.demolab.com/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Shell Script](https://custom-icon-badges.demolab.com/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://custom-icon-badges.demolab.com/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Google Cloud](https://custom-icon-badges.demolab.com/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://custom-icon-badges.demolab.com/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache](https://custom-icon-badges.demolab.com/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://custom-icon-badges.demolab.com/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache Flink](https://custom-icon-badges.demolab.com/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![ApacheCassandra](https://custom-icon-badges.demolab.com/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![AmazonDynamoDB](https://custom-icon-badges.demolab.com/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://custom-icon-badges.demolab.com/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://custom-icon-badges.demolab.com/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://custom-icon-badges.demolab.com/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://custom-icon-badges.demolab.com/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![LINUX](https://custom-icon-badges.demolab.com/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Kubernetes](https://custom-icon-badges.demolab.com/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://custom-icon-badges.demolab.com/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
+<!-- Epic GitHub Stats Section -->
+<div align="center">
+<table>
+<tr>
+<td valign="top" width="50%">
+
+
+
+## 🛡️ Security & Penetration Testing
+<div align="center">
+
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=hacker-news&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-43B02A?style=for-the-badge&logo=windowsterminal&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-A81D33?style=for-the-badge&logo=gnubash&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2A6B3D?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=windowsterminal&logoColor=white)
+![SQLmap](https://img.shields.io/badge/SQLmap-CC2927?style=for-the-badge&logo=mysql&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+</div>
+
+## 🚀 Programming Languages
+<div align="center">
+
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+</div>
+
+## 🗄️ Databases
+<div align="center">
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</div>
+
+## 🔧 Development Tools & Utilities
+<div align="center">
+
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+
+</div>
+
+</td>
+<td valign="top" width="50%">
+
+## 🌐 Web Development & APIs
+<div align="center">
+
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+## ☁️ Cloud & Hosting
+<div align="center">
+
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+
+</div>
+
+## 🧰 DevOps & Infrastructure
+<div align="center">
+
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+</div>
+
+## 🏠 Homelab & Automation
+<div align="center">
+
+![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
+![Homebridge](https://img.shields.io/badge/homebridge-%23491F59.svg?style=for-the-badge&logo=homebridge&logoColor=white)
+![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
+![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC)
+
+</div>
+</td>
+</tr>
+</table>
 <br/>
+
+</div>
+
 
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=tusharbasak97&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tusharbasak97&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharbasak97&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- Epic Snake Animation -->
+<div align="left">
+  <h2>🐍 The Matrix Snake Has You... 🐍</h2>
+  
+  <!-- Snake Animation Options -->
+  <div align="center">
+    <!-- Primary Snake - Dark Theme -->
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tusharbasak97/tusharbasak97/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tusharbasak97/tusharbasak97/output/github-snake.svg">
+      <img alt="Snake Animation" src="https://raw.githubusercontent.com/tusharbasak97/tusharbasak97/output/github-contribution-grid-snake-dark.svg" style="width: 100%; max-width: 900px;"/>
+    </picture>
+  </div>
+
 
 ### ✍️ Random Dev Quote
 
@@ -42,4 +171,10 @@
 
 <div align="center">
 <h3> Show some ❤️ by starring some of the repositories! </h3>
+</div>
+
+  
+<!-- Epic Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling" alt="Footer"/>
 </div>
